@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8CAA63632532AB5F00757E7F /* LegislationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CAA63622532AB5F00757E7F /* LegislationController.swift */; };
 		8CE4B54925323DD500FBB83D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CE4B54825323DD500FBB83D /* AppDelegate.swift */; };
 		8CE4B54B25323DD500FBB83D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CE4B54A25323DD500FBB83D /* SceneDelegate.swift */; };
 		8CE4B54D25323DD500FBB83D /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CE4B54C25323DD500FBB83D /* FirstViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8CAA63622532AB5F00757E7F /* LegislationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LegislationController.swift; sourceTree = "<group>"; };
 		8CE4B54525323DD500FBB83D /* EcoActive (git).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "EcoActive (git).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CE4B54825323DD500FBB83D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8CE4B54A25323DD500FBB83D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				8CE4B54A25323DD500FBB83D /* SceneDelegate.swift */,
 				8CE4B54C25323DD500FBB83D /* FirstViewController.swift */,
 				8CE4B54E25323DD500FBB83D /* SecondViewController.swift */,
+				8CAA63622532AB5F00757E7F /* LegislationController.swift */,
 				8CE4B55025323DD500FBB83D /* Main.storyboard */,
 				8CE4B55625323DD700FBB83D /* Assets.xcassets */,
 				8CE4B55825323DD700FBB83D /* LaunchScreen.storyboard */,
@@ -270,6 +273,7 @@
 				8CE4B54925323DD500FBB83D /* AppDelegate.swift in Sources */,
 				8CE4B55525323DD500FBB83D /* EcoActive__git_.xcdatamodeld in Sources */,
 				8CE4B54B25323DD500FBB83D /* SceneDelegate.swift in Sources */,
+				8CAA63632532AB5F00757E7F /* LegislationController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
